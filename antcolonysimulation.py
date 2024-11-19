@@ -400,7 +400,7 @@ def loadgraph(gpath):
                 
 if __name__ == '__main__':
     
-    pathfiletoshp = r"C:\Users\ibane\Documents\sampledatasets\collectionpoints.shp" #THIS IS THE SHP FILE FOR THE NODES
+    pathfiletoshp = r"data\graph\collectionpoints.shp" #THIS IS THE SHP FILE FOR THE NODES
     pathofgraphml = 'data/graph/collectionpoints.graphml' #GRAPHML FILE WHERE EDGES AND NODES ARE SAVED
     
     #CREATE GRAPH
